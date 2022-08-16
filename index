@@ -1,33 +1,33 @@
 <!DOCTYPE html>
- <html>
- <head>
- 	<meta charset="utf-8">
- 	<meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap: content:">
- 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
- 	<meta name="theme-color" content="#1DA1F2">
- 	<meta name="format-detection" content="telephone=no">
- 	<meta name="msapplication-tap-highlight" content="no">
- 	<title>test</title>
- 	<meta name="apple-mobile-web-app-capable" content="yes">
- 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="shortcut icon" href="https://www.jb-box.tk/img/icon.png" type="image/x-icon">
-     <link rel="apple-touch-icon" href="https://www.jb-box.tk/img/icon.png" />
-     <link rel="apple-touch-icon" sizes="72x72" href="https://www.jb-box.tk/img/icon.png" />
-     <link rel="apple-touch-icon" sizes="114x114" href="https://www.jb-box.tk/img/icon.png" />
- 	<link rel="stylesheet" href="framework7/css/framework7.bundle.min.css">
- 	<link rel="stylesheet" href="css/icons.css">
- 	<link rel="stylesheet" href="css/app.css">
- 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<html>
+<head>
+ <meta charset="utf-8">
+ <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap: content:">
+ <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+ <meta name="theme-color" content="#1DA1F2">
+ <meta name="format-detection" content="telephone=no">
+ <meta name="msapplication-tap-highlight" content="no">
+ <title>test</title>
+ <meta name="apple-mobile-web-app-capable" content="yes">
+ <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+   <link rel="shortcut icon" href="https://www.jb-box.tk/img/icon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://www.jb-box.tk/img/icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.jb-box.tk/img/icon.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.jb-box.tk/img/icon.png" />
+ <link rel="stylesheet" href="framework7/css/framework7.bundle.min.css">
+ <link rel="stylesheet" href="css/icons.css">
+ <link rel="stylesheet" href="css/app.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
  </head>
  <body>
- 	<div id="app">
- 			<div id="view-home" class="view view-main view-init tab tab-active">
- 				<div class="page" data-name="home">
- 					<div class="navbar navbar-large">
- 						<div class="navbar-bg"></div>
- 						<div class="navbar-inner">
- 							<div class="title sliding">test</div>
+ <div id="app">
+ 		<div id="view-home" class="view view-main view-init tab tab-active">
+ 			<div class="page" data-name="home">
+ 				<div class="navbar navbar-large">
+ 					<div class="navbar-bg"></div>
+ 					<div class="navbar-inner">
+ 						<div class="title sliding">test</div>
  <a class="popup-open" href="#" data-popup=".popup-revok"><i class="f7-icons" style="margin-left:-175px; color:orange;">smallcircle_fill_circle_fill</i>
  <!---revok icon (xmark_octagon_fill)--->
  <!---color (#ff043f)--->
@@ -43,13 +43,13 @@
  <a class="popup-open" href="#" data-popup=".popup-info"><i class="f7-icons">lightbulb</i></a>
  <a onclick="location.reload();"><i class="f7-icons">arrow_clockwise_circle</i></a>
                       </div>
- 							<div class="title-large">
- 								<div class="title-large-text">Test</div>
- 							</div>
+ 						<div class="title-large">
+ 							<div class="title-large-text">Test</div>
  						</div>
  					</div>
- 					<div class="tabs">
- 						<div class="tab tab-active page-content" id="homeTab">
+ 				</div>
+ 				<div class="tabs">
+ 					<div class="tab tab-active page-content" id="homeTab">
  <center>
  <h1 class="ml12">test</h1>
  </center>
@@ -206,6 +206,6 @@
              </div>
              <div class="footer">Code by <a href="https://t.me/ReboIOS" target="_blank">Rebo</a></div>
          </container>
-         <script src="js/main.js?Cash=232342"></script>
-     </body>
-     </html>
+        <script src="js/main.js?Cash=232342"></script>
+    </body>
+    </html>
